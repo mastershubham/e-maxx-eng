@@ -142,6 +142,7 @@ Another one would be the [Sqrt Tree](sqrt-tree.md).
 ## Practice Problems
 
 * [SPOJ - RMQSQ](http://www.spoj.com/problems/RMQSQ/)
+* [CSES - Static Range Minimum Queries](https://cses.fi/problemset/task/1647)
 * [SPOJ - THRBL](http://www.spoj.com/problems/THRBL/)
 * [Codechef - MSTICK](https://www.codechef.com/problems/MSTICK)
 * [Codechef - SEAD](https://www.codechef.com/problems/SEAD)
